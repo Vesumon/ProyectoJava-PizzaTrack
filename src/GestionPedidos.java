@@ -85,7 +85,7 @@ public class GestionPedidos {
 
                 case 4:
 
-                    Pizza actual = pilaUndo.pe0k();
+                    Pizza actual = pilaUndo.peek();
 
                     if (actual != null){
 

@@ -31,7 +31,13 @@ public class Pila {
             return null;
         }
 
-        return tope.pizza;
+        //Guardamos la pizza del nodo superior
+        Pizza pizza = tope.pizza;
+
+        // Movemos el tope al siguiente nodo
+        tope = tope.siguiente;
+
+        return pizza;
     }
 
     public Pizza peek(){
