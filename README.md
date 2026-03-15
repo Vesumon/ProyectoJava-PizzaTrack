@@ -10,7 +10,7 @@ Proyecto: PizzaTrack
 
 Repositorio: https://github.com/Vesumon/ProyectoJava-PizzaTrack
 
-Video de sustentación: (Link del video)
+Video de sustentación: https://youtu.be/uhZR4jvwaJE
 
 ---
 
@@ -160,7 +160,7 @@ En el siguiente video se explica:
 
 Link del video:
 
-(Pendiente Enlace)
+https://youtu.be/uhZR4jvwaJE
 
 ---
 
