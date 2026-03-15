@@ -3,9 +3,13 @@
 ## 📌 Autor
 
 Nombre: Yeremy Jesus Berdugo Valencia
+
 Curso: Estructura de Datos
+
 Proyecto: PizzaTrack
+
 Repositorio: https://github.com/Vesumon/ProyectoJava-PizzaTrack
+
 Video de sustentación: (Link del video)
 
 ---
@@ -121,25 +125,27 @@ El programa muestra el siguiente menú en consola:
 
 ## Menú del programa
 
-![Menú](capturas/Menu Inicial.png)
+![Menú](capturas/Menu_Inicial.png)
 
 ## Registro de pizza
 
-![Registro](capturas/Registrar Pizza.png)
+![Registro](capturas/Registrar_Pizza.png)
 
 ## Pedido actual
 
-![Pedido](capturas/Mostrar Pedido Actual.png)
+![Pedido](capturas/Mostrar_Pedido_Actual.png)
 
-## Funcionamiento Undo / Redo
+## Funcionamiento Undo
 
-(colocar captura)
+![Undo](capturas/Ciclo_Undo_-_Deshacer_Pedido.png)
 
-```
-capturas/undo_redo.png
-```
+## Funcionamiento Undo
 
----
+![Redo](capturas/Ciclo_Redo_-_Rehacer_Pedido.png)
+
+## Salir del Sistema
+
+![Salir](capturas/Salir_del_Sistema.png)
 
 # 🎥 Video de Sustentación
 
@@ -152,7 +158,7 @@ En el siguiente video se explica:
 
 Link del video:
 
-(Aquí colocas el enlace)
+(Pendiente Enlace)
 
 ---
 
