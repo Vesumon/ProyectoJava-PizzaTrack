@@ -73,9 +73,11 @@ ProyectoJava-PizzaTrack
 │
 ├─ capturas
 │   ├─ menu.png
-│   ├─ registrar.png
-│   ├─ pedido_actual.png
-│   └─ undo_redo.png
+│   ├─ registro.png
+│   ├─ pedido.png
+│   ├─ undo.png
+│   ├─ redo.png
+│   └─ salir.png
 │
 ├─ README.md
 └─ .gitignore
@@ -125,27 +127,27 @@ El programa muestra el siguiente menú en consola:
 
 ## Menú del programa
 
-![Menú](capturas/Menu_Inicial.png)
+![Menú](capturas/menu.png)
 
 ## Registro de pizza
 
-![Registro](capturas/Registrar_Pizza.png)
+![Registro](capturas/registro.png)
 
 ## Pedido actual
 
-![Pedido](capturas/Mostrar_Pedido_Actual.png)
+![Pedido](capturas/pedido.png)
 
 ## Funcionamiento Undo
 
-![Undo](capturas/Ciclo_Undo_-_Deshacer_Pedido.png)
+![Undo](capturas/undo.png)
 
 ## Funcionamiento Undo
 
-![Redo](capturas/Ciclo_Redo_-_Rehacer_Pedido.png)
+![Redo](capturas/redo.png)
 
 ## Salir del Sistema
 
-![Salir](capturas/Salir_del_Sistema.png)
+![Salir](capturas/salir.png)
 
 # 🎥 Video de Sustentación
 
