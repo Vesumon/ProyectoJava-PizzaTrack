@@ -33,4 +33,13 @@ public class Pila {
 
         return tope.pizza;
     }
+
+    public Pizza peek(){
+
+        if (isEmpty()) {
+            return null;
+        }
+
+        return tope.pizza;
+    }
 }
